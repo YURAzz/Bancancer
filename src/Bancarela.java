@@ -1,8 +1,6 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-import javax.print.DocFlavor.STRING;
-
 public class Bancarela {
 
     // SE SEI ARRIVATO QUI MERITI UN PREMIO MAN
